@@ -7,5 +7,7 @@ organe
 black
 Yellow
 Blue
+white
+cream color
 Pink
 
