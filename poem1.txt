@@ -3,6 +3,9 @@ This is the poem one Text file
 adding colors
 
 Red
+organe
+black
 Yellow
 Blue
 Pink
+
