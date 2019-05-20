@@ -1,11 +1,13 @@
 This is the poem one Text file
 
 adding colors
+add poies
 
 Red
 organe
 unicorn
 black
+indigo
 Yellow
 Blue
 white
